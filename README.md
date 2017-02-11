@@ -63,4 +63,11 @@ T.ex. stänga av output from kommandot /testfor som är  i stil med [@: Found sp
 /fill ~-20 ~-8 ~-20 ~20 ~8 ~20 air 0 replace tallgrass
 ````
 
+## Spela ljud
+
+När man skriver in namnet på ljudet så använder man med fördel TAB för att få komplettering. @a betyder att alla spelare kan höra ljudet.
+
+````
+/playsound minecraft:entity.ghast.death master @a ~ ~ ~
+````
 
