@@ -33,6 +33,12 @@ Commandblocket är repeating, always active och har kommandot:
 
 Mha kommandot /clone kan ett avsnitt av block kopieras till en annan koordinat och med /fill kan man fylla ett område med t.ex. luft (air). Detta kan man kombinera och göra en "gömd ingång".
 
+![screenshot](https://raw.githubusercontent.com/AndersBillLinden/coderdojo-swe-minecraft/master/screenshots/secret_passage1.png?token=AA-GevKTx6yq8dh_AaDgaQPo9XqEh9zWks5YqMD7wA%3D%3D)
+
+Detta är en gömd igång, när man kommer närmare så försvinner en del av strukturen
+
+![screenshot](https://raw.githubusercontent.com/AndersBillLinden/coderdojo-swe-minecraft/master/screenshots/secret_passage2.png?token=AA-Gelp2hdGtgf_TUxKnn0gGgIIHFK7sks5YqMFnwA%3D%3D)
+
 ## Repeterande ljud
 
 ## Teleporter
