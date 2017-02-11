@@ -31,6 +31,8 @@ Commandblocket är repeating, always active och har kommandot:
 
 ## Gömd ingång
 
+Mha kommandot /clone kan ett avsnitt av block kopieras till en annan koordinat och med /fill kan man fylla ett område med t.ex. luft (air). Detta kan man kombinera och göra en "gömd ingång".
+
 ## Repeterande ljud
 
 ## Teleporter
